@@ -8,7 +8,7 @@ Nazwisko: Góra\
 Pseudonim: Kapi\
 Status: Student AGH w Krakowie na kierunku Cyberbezpieczeństwo
 
-## Przepis na rybę po grecku
+## Przepis na rybę po grecku, którą bardzo lubię (Rzetelnie Polecam)
 
 Składniki:
 
