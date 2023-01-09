@@ -21,7 +21,7 @@ Składniki:
 
 Przygotowanie:
 
-    Przygotuj rybę - umyj i osusz filety.</li>
+    Przygotuj rybę - umyj i osusz filety.
     W misce wymieszaj oliwę z oliwek, sok z cytryny, posiekany czosnek, natkę pietruszki, sól i pieprz.
     Umieść rybę w naczyniu żaroodpornym i zalej przygotowanym sosem.
     Piecz w piekarniku nagrzanym do 180 stopni przez około 25-30 minut.
@@ -29,6 +29,6 @@ Przygotowanie:
 
 ### Fotka
 
-![Rybka](![zdjecie-ryby.jpg](assets%2Fimages%2Fzdjecie-ryby.jpg))
+![Rybka](assets/images/zdjecie-ryby.jpg)
 
 
